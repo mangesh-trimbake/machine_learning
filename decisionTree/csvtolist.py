@@ -22,3 +22,11 @@ del training_data[0]
 
 print(training_data[0])
 
+print(len(training_data))
+
+for current_row in training_data :
+	current_label = current_row[1]
+	del current_row[1]
+	current_row.append(current_label)
+
+print(training_data[0])
