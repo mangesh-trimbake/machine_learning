@@ -490,5 +490,7 @@ CRITICAL NODES TO PROTECT (NEVER RUSH)
 These are cognitive mutation points.
 
 ============================================================
+
 END OF GENOME
+
 ============================================================
