@@ -298,7 +298,7 @@ Unlocks: model judgment.
 
 STAGE 7 — CLASSICAL MACHINE LEARNING
 
-(Teach in this exact order.)
+(Cover in this exact order.)
 
 7.1 Linear Regression  
 Requires projections + Gaussian assumptions.
@@ -393,7 +393,7 @@ STAGE 12 — SEQUENTIAL MODELING
 - LSTM
 - GRU
 
-Teaches architectural evolution.
+Cover architectural evolution.
 
 ============================================================
 
@@ -422,7 +422,7 @@ Signal of mastery: ability to critique architectures.
 
 STAGE 15 — MODERN GENERATIVE MODELING
 
-Teach historically:
+Cover historically:
 
 Autoregressive Models  
 ↓  
@@ -458,7 +458,7 @@ Actor–Critic Methods
 
 STAGE 17 — ML SYSTEMS (TOP 1% DIFFERENTIATOR)
 
-Teach after students experience slow training.
+Cover after you experience slow training.
 
 - GPU architecture
 - Batching
@@ -475,7 +475,7 @@ FINAL STAGE — RESEARCH COGNITION
 - Designing experiments
 - Scientific writing
 
-Identity transformation: Student → Scientist.
+Identity transformation: Engineer → Scientist.
 
 ============================================================
 
